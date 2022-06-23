@@ -1,3 +1,5 @@
 git add .
 git commit -m "mensaje de confirmación"
 git push <nombre-remoto> <nombre-de-tu-rama>
+git pull
+
